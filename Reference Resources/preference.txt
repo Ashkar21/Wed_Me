@@ -1,0 +1,40 @@
+Her
+age
+height
+marital status
+physical_status
+
+
+Eating Habits
+Drinking Habits
+Smoking habits
+
+
+Religious :
+religion
+Caste
+Star
+Dosham
+
+Professional Preference:
+Education
+Employement_Status
+designation
+Annual_income
+
+Location :
+state
+District
+
+Family:
+Family value
+Family_type
+Father's occupation
+mother's occupation
+brother/sister
+brother's/sister married 
+brother's/sister job
+
+
+
+

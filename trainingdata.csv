@@ -1,0 +1,7 @@
+<br />
+<b>Warning</b>:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (42000/1049): Unknown database 'matrimony' in <b>C:\wamp\www\matrimony_last1\admin\dbconnect.php</b> on line <b>2</b><br />
+trainingdata,label
+<br />
+<b>Warning</b>:  mysqli_query() expects parameter 1 to be mysqli, boolean given in <b>C:\wamp\www\matrimony_last1\admin\traindownload.php</b> on line <b>8</b><br />
+<br />
+<b>Warning</b>:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in <b>C:\wamp\www\matrimony_last1\admin\traindownload.php</b> on line <b>9</b><br />

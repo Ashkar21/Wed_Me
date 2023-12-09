@@ -1,0 +1,6 @@
+trainingdata,label
+"unmarried vegeterian no_drink no_smoking white Government",1
+"unmarried non-vegeterian no_drink no_smoking white Government",2
+"unmarried non-vegeterian no_drink no_smoking any_color Government",3
+"second_marriage vegeterian no_drink no_smoking white Government",5
+"second_marriage non-vegeterian no_drink no_smoking any_color Government",4
